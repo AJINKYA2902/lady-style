@@ -73,7 +73,7 @@ function App() {
               <b>₹300</b>
 
               <a
-                href={`https://wa.me/918087084443?text=${encodeURIComponent(
+                href={`https://wa.me/8073464431?text=${encodeURIComponent(
                   `Hello💕\nI want to order:\nProduct: ${item.name}\nPrice: ₹300`
                 )}`}
                 target="_blank"
@@ -92,14 +92,14 @@ function App() {
 
         <h3>Dreesify Lady Collection  💗</h3>
         <p>Best fashion collection for modern women</p>
-        <p>Contact: +91 8087084443</p>
+        <p>Contact: +91 8073464431</p>
 
         <div className="social">
           <p>Follow us</p>
 
           <div className="social-links">
             <a
-              href="https://instagram.com/>dreesify_11"
+              href="https://instagram.com/dreesify_11"
               target="_blank"
               rel="noopener noreferrer"
             >
