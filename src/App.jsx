@@ -46,7 +46,7 @@ function App() {
           </p>
 
           <a
-            href={`https://wa.me/918087084443?text=${encodeURIComponent(
+            href={`https://wa.me/918073464431?text=${encodeURIComponent(
               `Hello 👋\nI want to explore your collection`
             )}`}
             target="_blank"
