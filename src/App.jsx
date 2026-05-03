@@ -73,7 +73,7 @@ function App() {
               <b>₹300</b>
 
               <a
-                href={`https://wa.me/8073464431?text=${encodeURIComponent(
+                href={`https://wa.me/918073464431?text=${encodeURIComponent(
                   `Hello💕\nI want to order:\nProduct: ${item.name}\nPrice: ₹300`
                 )}`}
                 target="_blank"
